@@ -78,6 +78,8 @@ def train(rank, world_size):
             print(f"Rank {rank}, Epoch [{epoch + 1}/5], Loss: {loss.item():.4f}")
 
     # Clean up
+    if __name__ == "__main__":
+        torch.save(fsdp_model.module.state_dict(), "model.pt")
     torch.distributed.destroy_process_group()
 
 if __name__ == "__main__":

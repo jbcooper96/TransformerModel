@@ -7,7 +7,7 @@ SPACE = (" ", "Ġ")
 END_OF_FILE = "<|endoftext|>"
 
 class Tokenizer():
-    def __init__(self, vocab_file="vocab-1000.json"):
+    def __init__(self, vocab_file="vocab-5000.json"):
         with open(vocab_file) as f:
             self.vocab = json.load(f)
         self.end_of_file_index = self.vocab.index(END_OF_FILE)
