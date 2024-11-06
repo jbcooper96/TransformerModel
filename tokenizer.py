@@ -12,7 +12,7 @@ class Tokenizer():
             self.vocab = json.load(f)
         self.end_of_file_index = self.vocab.index(END_OF_FILE)
         
-    def tokenize(self, text):
+    def tokenize(self, text, add_eof=True):
         tokens = []
         for word in text.split():
             if word not in PUNCTUATION:
@@ -30,7 +30,8 @@ class Tokenizer():
                 tokens.append(index)
                 i = j-1
 
-        tokens.append(self.end_of_file_index)
+        if add_eof:
+            tokens.append(self.end_of_file_index)
         return tokens
 
     def decode(self, tokens):

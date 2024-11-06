@@ -3,6 +3,7 @@ import torch.nn as nn
 from tokenizer import Tokenizer
 from data.bookCorpus import Bookcorpus
 from torch.utils.data import DataLoader
+import math
 
 MAX_SEQUENCE_LENGTH = 500
 VOCAB_SIZE = 5000
@@ -40,13 +41,27 @@ class Block(nn.Module):
         return input + residual
 
 
+class PositionalEmbedding(nn.Module):
+    def __init__(self):
+        super().__init__()
+    
+        pe = torch.zeros(MAX_SEQUENCE_LENGTH, EMBEDDING_DIM)
+        position = torch.arange(0, MAX_SEQUENCE_LENGTH, dtype=torch.float).unsqueeze(1)
+        div_term = torch.exp(torch.arange(0, EMBEDDING_DIM, 2).float() * -(math.log(10000.0) / EMBEDDING_DIM))
+        
+        pe[:, 0::2] = torch.sin(position * div_term)
+        pe[:, 1::2] = torch.cos(position * div_term)
+    
+        self.register_buffer('pe', pe.unsqueeze(0))
+    def forward(self, x):
+        return x + self.pe[:, :x.size(1)]
 
 class Model(nn.Module):
     def __init__(self):
         super().__init__()
 
         self.emb = nn.Embedding(VOCAB_SIZE, EMBEDDING_DIM)
-        self.pos_emb = nn.Embedding(MAX_SEQUENCE_LENGTH, EMBEDDING_DIM)
+        self.pos_emb = PositionalEmbedding()
 
         blocks = []
         for _ in range(LAYERS):
@@ -59,11 +74,8 @@ class Model(nn.Module):
         batch_size, seq_length = input.size()
 
         input = self.emb(input)
+        input = self.pos_emb(input)
 
-        pos_ids = torch.arange(seq_length)
-        pos_embs = self.pos_emb(pos_ids)
-
-        input = torch.add(input, pos_embs)
         for block in self.blocks:
             input = block(input)
         

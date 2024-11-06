@@ -1,0 +1,141 @@
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [32,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [33,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [34,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [35,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [36,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [37,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [38,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [39,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [40,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [41,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [42,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [43,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [44,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [45,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [46,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [47,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [48,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [49,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [50,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [51,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [52,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [53,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [54,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [55,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [56,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [57,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [58,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [59,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [60,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [61,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [62,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+/opt/conda/conda-bld/pytorch_1720538456841/work/aten/src/ATen/native/cuda/Indexing.cu:1284: indexSelectLargeIndex: block: [153,0,0], thread: [63,0,0] Assertion `srcIndex < srcSelectDimSize` failed.
+Fatal Python error: Aborted
+
+Thread 0x000078175e800640 (most recent call first):
+  <no Python frame>
+
+Thread 0x000078175f200640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781815600640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781816000640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781816a00640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781817400640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781817e00640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781830e00640 (most recent call first):
+  <no Python frame>
+
+Thread 0x0000781a5f400640 (most recent call first):
+  File "/opt/conda/lib/python3.11/threading.py", line 331 in wait
+  File "/opt/conda/lib/python3.11/threading.py", line 629 in wait
+  File "/opt/conda/lib/python3.11/site-packages/tqdm/_monitor.py", line 60 in run
+  File "/opt/conda/lib/python3.11/threading.py", line 1045 in _bootstrap_inner
+  File "/opt/conda/lib/python3.11/threading.py", line 1002 in _bootstrap
+
+Current thread 0x0000781b5e8f1740 (most recent call first):
+  File "/opt/conda/lib/python3.11/multiprocessing/process.py", line ??? in _bootstrap
+  File "/opt/conda/lib/python3.11/multiprocessing/spawn.py", line 135 in _main
+  File "/opt/conda/lib/python3.11/multiprocessing/spawn.py", line 122 in spawn_main
+  File "<string>", line 1 in <module>
+
+Extension modules: mkl._mklinit, mkl._py_mkl_service, numpy.core._multiarray_umath, numpy.core._multiarray_tests, numpy.linalg._umath_linalg, numpy.fft._pocketfft_internal, numpy.random._common, numpy.random.bit_generator, numpy.random._bounded_integers, numpy.random._mt19937, numpy.random.mtrand, numpy.random._philox, numpy.random._pcg64, numpy.random._sfc64, numpy.random._generator, torch._C, torch._C._fft, torch._C._linalg, torch._C._nested, torch._C._nn, torch._C._sparse, torch._C._special, zstandard.backend_c, pyarrow.lib, pandas._libs.tslibs.ccalendar, pandas._libs.tslibs.np_datetime, pandas._libs.tslibs.dtypes, pandas._libs.tslibs.base, pandas._libs.tslibs.nattype, pandas._libs.tslibs.timezones, pandas._libs.tslibs.fields, pandas._libs.tslibs.timedeltas, pandas._libs.tslibs.tzconversion, pandas._libs.tslibs.timestamps, pandas._libs.properties, pandas._libs.tslibs.offsets, pandas._libs.tslibs.strptime, pandas._libs.tslibs.parsing, pandas._libs.tslibs.conversion, pandas._libs.tslibs.period, pandas._libs.tslibs.vectorized, pandas._libs.ops_dispatch, pandas._libs.missing, pandas._libs.hashtable, pandas._libs.algos, pandas._libs.interval, pandas._libs.lib, pyarrow._compute, pandas._libs.ops, pandas._libs.hashing, pandas._libs.arrays, pandas._libs.tslib, pandas._libs.sparse, pandas._libs.internals, pandas._libs.indexing, pandas._libs.index, pandas._libs.writers, pandas._libs.join, pandas._libs.window.aggregations, pandas._libs.window.indexers, pandas._libs.reshape, pandas._libs.groupby, pandas._libs.json, pandas._libs.parsers, pandas._libs.testing, _brotli, yaml._yaml, pyarrow._parquet, pyarrow._fs, pyarrow._azurefs, pyarrow._hdfs, pyarrow._gcsfs, pyarrow._s3fs, multidict._multidict, yarl._quoting_c, propcache._helpers_c, aiohttp._helpers, aiohttp._http_writer, aiohttp._http_parser, aiohttp._websocket, frozenlist._frozenlist, xxhash._xxhash, pyarrow._json, gmpy2.gmpy2 (total: 84)
+W1029 01:45:06.112000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9651 via signal SIGTERM
+W1029 01:45:06.112000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9652 via signal SIGTERM
+W1029 01:45:06.113000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9653 via signal SIGTERM
+W1029 01:45:06.114000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9654 via signal SIGTERM
+W1029 01:45:06.116000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9655 via signal SIGTERM
+W1029 01:45:06.117000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9656 via signal SIGTERM
+W1029 01:45:06.117000 135552797742912 torch/multiprocessing/spawn.py:146] Terminating process 9657 via signal SIGTERM
+Traceback (most recent call last):
+  File "/workspace/TransformerModel/train.py", line 93, in <module>
+    spawn(train, args=(world_size,), nprocs=world_size, join=True)
+  File "/opt/conda/lib/python3.11/site-packages/torch/multiprocessing/spawn.py", line 282, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method="spawn")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/multiprocessing/spawn.py", line 238, in start_processes
+    while not context.join():
+              ^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/multiprocessing/spawn.py", line 189, in join
+    raise ProcessRaisedException(msg, error_index, failed_process.pid)
+torch.multiprocessing.spawn.ProcessRaisedException: 
+
+-- Process 0 terminated with the following error:
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.11/site-packages/torch/multiprocessing/spawn.py", line 76, in _wrap
+    fn(i, *args)
+  File "/opt/conda/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 348, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/workspace/TransformerModel/train.py", line 69, in train
+    logits = fsdp_model(token_list.to(rank))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/parallel/distributed.py", line 1636, in forward
+    else self._run_ddp_forward(*inputs, **kwargs)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/parallel/distributed.py", line 1454, in _run_ddp_forward
+    return self.module(*inputs, **kwargs)  # type: ignore[index]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TransformerModel/model.py", line 67, in forward
+    pos_embs = self.pos_emb(pos_ids)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/modules/sparse.py", line 164, in forward
+    return F.embedding(
+           ^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.11/site-packages/torch/nn/functional.py", line 2267, in embedding
+    return torch.embedding(weight, input, padding_idx, scale_grad_by_freq, sparse)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: device-side assert triggered
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+
+/opt/conda/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 7 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
